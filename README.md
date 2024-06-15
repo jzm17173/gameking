@@ -1,5 +1,7 @@
 # 抽卡戒断器(GAME KING)
 
+一款帮养成抽卡不良嗜好的朋友回归正途的游戏
+
 ![logo_img](https://github.com/jzm17173/gameking/assets/1332587/c4ceb8ba-0ef2-42e1-92a1-39d98d42642e)
 
 ## 我们的口号是
