@@ -1,8 +1,6 @@
-# 抽卡戒断器
+# 抽卡戒断器(GAME KING)
 
-## 游戏英文名
-
-GAME KING 致敬 BURGER KING
+![logo_img](https://github.com/jzm17173/gameking/assets/1332587/c4ceb8ba-0ef2-42e1-92a1-39d98d42642e)
 
 ## 我们的口号是
 
